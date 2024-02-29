@@ -2,7 +2,7 @@ repo_name: ravichanga101/charusatv3
 report_id: 2531f987819f2ee051ebe30ca1bc13df
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T08:45:49+00:00'
+timestamp: '2024-02-29T19:43:04+00:00'
 requested_by: ravichanga101
 provider: github
 branch: master
@@ -58,7 +58,7 @@ tools:
   last_updated_by: learnwithparth
   last_updated_on: 2022-12-08 03:40:18.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.1.1
   open_source: true
